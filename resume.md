@@ -24,7 +24,7 @@ and big problems to work on!
 * Linux 4 Life
   : I've been running at least one flavor of Linux for the past 15 years, Slackware
   at home, Ubuntu/RHEL derivatives at work. A day spent in a terminal is a day well
-  spent
+  spent.
 
 * Retail Experience
   : It may be hard to believe, but having worked in retail for a long time has uniquely
@@ -38,7 +38,7 @@ and big problems to work on!
 1. BASH
 1. Ruby
 1. Jenkins
-1. Runkdeck
+1. Rundeck
 1. YAML/HAML/XML
 1. Git / Mercurial
 1. Apache
@@ -68,7 +68,7 @@ General Electric, Glen Allen, VA
   Center. During that time I built an emailrelay proxy project to allow firewall policy testing
   by various GE employees while keeping the firewall in a DMZ, and as a systems administrator
   for a Django/D3JS application to track intellectual property exfiltration by users uploading
-  to Dropbox or Google drive.
+  to Dropbox or Google Drive.
 
 H&M, Washington, DC
 : *Operations Manager*  
