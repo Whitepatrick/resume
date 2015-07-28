@@ -1,14 +1,9 @@
-# Patrick White
-
-> 808 Myrtle Ave. #3C
-
-> Brooklyn, NY 11206
-
-> (240) 271-4591
-
-> [20eyes.org](http://20eyes.org)
-
-> [whitep@vcu.edu](whitep@vcu.edu)
+### Patrick White
+> 808 Myrtle Ave. #3C  
+> Brooklyn, NY 11206  
+> (240) 271-4591  
+> [20eyes.org](http://20eyes.org)  
+> [whitep@vcu.edu](whitep@vcu.edu)  
 
 ------
 
@@ -41,9 +36,9 @@ and big problems to work on!
 
 1. Linux
 1. BASH
+1. Ruby
 1. Jenkins
 1. Runkdeck
-1. Ruby
 1. YAML/HAML/XML
 1. Git / Mercurial
 1. Apache
@@ -66,10 +61,9 @@ SmartBrief Inc., Washington, DC
   system using Rundeck and some simple BASH scripts. The deployment system now saves about 550 hours per year that QA engineers would have normally spent manually rebuilding.
 
 General Electric, Glen Allen, VA
-: *Information Security Internship*
+: *Information Security Internship*  
 
   __January 2013 - August 2013__
-
   I worked for GE as an intern for two semesters in 2013 at their Information Security Technology
   Center. During that time I built an emailrelay proxy project to allow firewall policy testing
   by various GE employees while keeping the firewall in a DMZ, and as a systems administrator
@@ -77,32 +71,24 @@ General Electric, Glen Allen, VA
   to Dropbox or Google drive.
 
 H&M, Washington, DC
-: *Operations Manager*
+: *Operations Manager*  
 
   __December 2006 - July 2010__
-
   I started as a department manager and focused on employee retention and employee recruitment.
   I was brought to multiple training sessions at the Herald Square location to then go back and
   train store managers in the DC area. I was brought up to operations manager during 2008 to
   assist in a project to get shipment processing down to the fewest people necessary while
   maintaining peak efficiency. I resigned and became part time while attending VCU.
 
-------
+------  
+
 
 ### Education
 
 Bachelor of Science in Information Systems
-:
-  *Virginia Commonwealth University, Richmond, VA*
+: *Virginia Commonwealth University, Richmond, VA*  
 
-  __Aug, 2010 - May 2014__
-
+  __Aug, 2010 - May 2014__  
   Cumulative GPA of 3.125. Developed a continuous deployment system for senior year independent
   study project. I wrote an eCommerce dog walking service using a traditional LAMP stack for my
   senior capstone class.
-
-
-
-------
-
-Patrick White -- [whitep@vcu.edu](whitep@vcu.edu) -- (240) 271-4591
