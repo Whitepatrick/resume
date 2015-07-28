@@ -6,15 +6,17 @@
 
 > (240) 271-4591
 
-> [whitep@vcu.edu](whitep@vcu.edu)  
-> [Download PDF](resume.pdf)  
+> [20eyes.org](http://20eyes.org)
+
+> [whitep@vcu.edu](whitep@vcu.edu)
 
 ------
 
 ### Profile
 
 I'm a computer nerd who wants to automate the world! I'm incredibly driven
-and focused on learning as much as I possibly can.
+and focused on learning as much as I possibly can. I'm looking for new challenges
+and big problems to work on!
 
 ------
 
@@ -99,6 +101,8 @@ Bachelor of Science in Information Systems
   study project. I wrote an eCommerce dog walking service using a traditional LAMP stack for my
   senior capstone class.
 
-Patrick White -- [whitep@vcu.edu](whitep@vcu.edu) -- (240) 271-4591
+
 
 ------
+
+Patrick White -- [whitep@vcu.edu](whitep@vcu.edu) -- (240) 271-4591
