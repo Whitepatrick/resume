@@ -60,10 +60,8 @@ SmartBrief Inc., Washington, DC
   team. This includes triggering automated tests by using mercurial hooks, alerting of test results
   to appropriate team members, social execution of build/test commands to increase awareness among
   our team, and automated deploy to QA environments. Before I started working at SmartBrief their
-  deployment process was 100% manual. After 3 months of working there I built a simple deployment
-  system using Rundeck and some simple BASH scripts. As of writing this we were at around ~2200
-  builds done using Rundeck. At around 15ish minutes each manual rebuild I have saved ~550 hours
-  a year of QA engineers manually rebuilding.
+  deployment process was 100% manual. After 3 months SmartBrief I built a simple deployment
+  system using Rundeck and some simple BASH scripts. The deployment system now saves about 550 hours per year that QA engineers would have normally spent manually rebuilding.
 
 General Electric, Glen Allen, VA
 : *Information Security Internship*
@@ -74,8 +72,7 @@ General Electric, Glen Allen, VA
   Center. During that time I built an emailrelay proxy project to allow firewall policy testing
   by various GE employees while keeping the firewall in a DMZ, and as a systems administrator
   for a Django/D3JS application to track intellectual property exfiltration by users uploading
-  to Dropbox or Google drive. I was asked to return in the subsequent semester but declined so I
-  could take more classes in my final semester.
+  to Dropbox or Google drive.
 
 H&M, Washington, DC
 : *Operations Manager*
@@ -83,7 +80,7 @@ H&M, Washington, DC
   __December 2006 - July 2010__
 
   I started as a department manager and focused on employee retention and employee recruitment.
-  I was brought to multiple training sessions at the herald square location to then go back and
+  I was brought to multiple training sessions at the Herald Square location to then go back and
   train store managers in the DC area. I was brought up to operations manager during 2008 to
   assist in a project to get shipment processing down to the fewest people necessary while
   maintaining peak efficiency. I resigned and became part time while attending VCU.
