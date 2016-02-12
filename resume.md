@@ -2,93 +2,78 @@
 > 808 Myrtle Ave. #3C  
 > Brooklyn, NY 11206  
 > (240) 271-4591  
-> [20eyes.org](http://20eyes.org)  
-> [whitep@vcu.edu](whitep@vcu.edu)  
+> [email](whitep@vcu.edu)  
+> [blog](http://blog.20eyes.org)  
+> [twitter](https://twitter.com/operations_ivy)
 
 ------
 
 ### Profile
 
-I'm a computer nerd who wants to automate the world! I'm incredibly driven
-and focused on learning as much as I possibly can. I'm looking for new challenges
-and big problems to work on!
+I am a very driven engineer with a true passion for quality, speed and delivering the best product possible at the right time. I have a true passion for Linux, open source software, infrastructure, and automation. I try to keep scale in mind at every step.  I’m also a nerd who loves Seinfeld, basketball, punk rock, and video games.  
 
 ------
 
 ### Skills
 
-* Continuous Delivery
-  : From 'new branch' to 'push to production' I get quality code where it needs to be,
-  when it needs to be there.
-
-* Linux 4 Life
-  : I've been running at least one flavor of Linux for the past 15 years, Slackware
-  at home, Ubuntu/RHEL derivatives at work. A day spent in a terminal is a day well
-  spent.
-
-* Retail Experience
-  : It may be hard to believe, but having worked in retail for a long time has uniquely
-  equipped me with uncanny communication abilities.
+* **Tools and Frameworks:** Jenkins, Docker, Git, Rundeck, ELK
+* **Databases:** Postgres, MySQL, MongoDB  
+* **Operating Systems:** Linux (Debian & Fedora derivatives, Slackware, FreeBSD), OS X
+* **Languages:** Python, Ruby, and BASH
 
 -------
 
-### Technical
-
-1. Linux
-1. BASH
-1. Ruby
-1. Jenkins
-1. Rundeck
-1. YAML/HAML/XML
-1. Git / Mercurial
-1. Apache
-1. SQL
-
-------
-
 ### Experience
 
-SmartBrief Inc., Washington, DC
-: *Software Test Engineer*
+SmartBrief Inc., New York, NY / Washington, DC  
+: *infrastructure Engineer*
 
   __June 2014 - Current__
 
-  I built and actively maintain the continuous integration pipeline for a 25 person development
-  team. This includes triggering automated tests by using mercurial hooks, alerting of test results
-  to appropriate team members, social execution of build/test commands to increase awareness among
-  our team, and automated deploy to QA environments. Before I started working at SmartBrief their
-  deployment process was 100% manual. After 3 months SmartBrief I built a simple deployment
-  system using Rundeck and some simple BASH scripts. The deployment system now saves about 550 hours per year that QA engineers would have normally spent manually rebuilding.
+  * Migrated a decaying continuous integration system from an old Bamboo instance to a new Jenkins cluster
+  * Launched and maintained an [ELK](https://www.elastic.co/webinars/introduction-elk-stack) stack to monitor logs previously being manually processed
+  * Automated the team's manual build process and maintained a Rundeck instance to perform ad-hoc environment rebuilds
+  * Contributed a significant amount of undocumented processes and practices to the knowledge-base (confluence)  
+  * Wrote several scripts to automate trivial time consuming tasks and refactored old fragile scripts doing important jobs
+  * Challenged inefficient processes in and outside of the tech team
 
-General Electric, Glen Allen, VA
-: *Information Security Internship*  
+General Electric, Glen Allen, VA  
+: *Information Security Internship*   
 
-  __January 2013 - August 2013__
-  I worked for GE as an intern for two semesters in 2013 at their Information Security Technology
-  Center. During that time I built an emailrelay proxy project to allow firewall policy testing
-  by various GE employees while keeping the firewall in a DMZ, and as a systems administrator
-  for a Django/D3JS application to track intellectual property exfiltration by users uploading
-  to Dropbox or Google Drive.
+  __January 2013 - August 2013__  
+  * Built an emailrelay proxy to allow firewall policy testing by various GE employees while keeping the proxy in our DMZ  
+  * Built a basic continuous integration system for the project assigned to our intern group using Jenkins and BASH scripts to support a Django/D3jS/MapReduce project
+  * Provided incoming interns a "crash course" into continuous integration concepts during my second internship semester
 
-H&M, Washington, DC
-: *Operations Manager*  
+H&M, Washington, DC  
+: *Operations Manager*    
 
-  __December 2006 - July 2010__
-  I started as a department manager and focused on employee retention and employee recruitment.
-  I was brought to multiple training sessions at the Herald Square location to then go back and
-  train store managers in the DC area. I was brought up to operations manager during 2008 to
-  assist in a project to get shipment processing down to the fewest people necessary while
-  maintaining peak efficiency. I resigned and became part time while attending VCU.
-
+  __December 2006 - July 2010__   
+  * Assigned to different stores to identify and attempt to improve the merchandise processing system in underperforming stores
+  * As a department manager I increased Ladies department sales by 33% during my time making it the leading department in the store  
+  * Worked tirelessly to push for internal employee development over hiring externally  
 ------  
 
+### Education  
 
-### Education
+Bachelor of Science in Information Systems  
+: *Virginia Commonwealth University, Richmond, VA*    
 
-Bachelor of Science in Information Systems
-: *Virginia Commonwealth University, Richmond, VA*  
+  __Aug, 2010 - May 2014__    
+  Cumulative GPA of 3.125. I Developed a continuous deployment system for senior year independent study project. I wrote an eCommerce dog walking service using a traditional LAMP stack for my senior capstone class.
 
-  __Aug, 2010 - May 2014__  
-  Cumulative GPA of 3.125. Developed a continuous deployment system for senior year independent
-  study project. I wrote an eCommerce dog walking service using a traditional LAMP stack for my
-  senior capstone class.
+------   
+
+### Personal Stuff   
+**Part Time Data Science course - General Assembly**
+Github Link: [311_holidays](https://github.com/Whitepatrick/311_holidays)
+  - Certificate of Completion from General Assembly  
+  - Final project submission modeling the relationship between NYC 311 call data and local weather forecasts  
+
+**[Github Links](https://github.com/Whitepatrick)**  
+Some noteworthy repositories to check out are:
+  - [freshzings](https://github.com/Whitepatrick/freshzings) - Twitter bot written in python, searches and interacts with tweets containing #zing
+  - [twentyeyes_web](https://github.com/Whitepatrick/twentyeyes_web) - Now defunct blog I built in Ruby with a PostgreSQL DB
+  - [20eyesbot](https://github.com/Whitepatrick/20eyesbot) - Twitter bot I made in Ruby, fair warning this bot is annoying
+  - [gnudism_bot](https://github.com/Whitepatrick/gnudism_bot) - A bot to auto-op me on #gnudism on irc.freenode.net  
+  - [utility_scripts](https://github.com/Whitepatrick/utility_scripts) - Random scripts to help with daily chores
